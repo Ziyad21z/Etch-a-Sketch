@@ -11,7 +11,6 @@ btn.addEventListener('click', () => {
         createGrid(newGrid);
     }
 })
-
 createGrid(16)// default grid
 
 function createGrid(num) {
